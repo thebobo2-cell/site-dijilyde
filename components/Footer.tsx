@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/10 to-transparent" />
 
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-24">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 mb-24">
                     {/* Logo & Description */}
                     <div className="space-y-8">
                         <Link href="/" className="group flex items-center gap-3">
@@ -90,29 +90,13 @@ export default function Footer() {
                                 </div>
                                 <div className="text-sm">
                                     <p className="font-bold mb-1">Support Email</p>
-                                    <p className="text-white/50">contact@dijilyd.com</p>
+                                    <p className="text-white/50">ets.dijilyd2@gmail.com</p>
                                 </div>
                             </li>
                         </ul>
                     </div>
 
-                    {/* Newsletter */}
-                    <div>
-                        <h4 className="text-xs font-black uppercase tracking-[0.2em] text-primary mb-8">Newsletter</h4>
-                        <p className="text-white/50 mb-6 text-sm">
-                            Recevez nos opportunités d'investissement en priorité.
-                        </p>
-                        <form className="space-y-3" onSubmit={(e) => e.preventDefault()}>
-                            <input
-                                type="email"
-                                placeholder="votre@email.com"
-                                className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-4 focus:outline-none focus:ring-1 focus:ring-primary transition-all text-sm"
-                            />
-                            <button className="w-full bg-primary hover:bg-primary-dark text-secondary font-black uppercase tracking-widest py-4 rounded-xl transition-all text-xs shadow-lg shadow-primary/10 hover:shadow-primary/20">
-                                S'abonner
-                            </button>
-                        </form>
-                    </div>
+
                 </div>
 
                 <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
