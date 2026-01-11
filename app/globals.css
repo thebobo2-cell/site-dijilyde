@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-outfit: var(--font-outfit);
+
+  --color-primary: #D4AF37;
+  --color-primary-dark: #B4942E;
+  --color-primary-light: #F3DC84;
+
+  --color-secondary: #0F172A;
+  --color-secondary-light: #1E293B;
+
+  --color-accent-construction: #E67E22;
+  --color-accent-agriculture: #27AE60;
+  --color-accent-fashion: #9B59B6;
+  --color-accent-realestate: #2980B9;
+
+  --background-image-glass: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+  --background-image-premium: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #0F172A;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #020617;
+    --foreground: #F8FAFC;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-outfit), var(--font-geist-sans), sans-serif;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+}
+
+.dark .glass-card {
+  background: rgba(15, 23, 42, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
