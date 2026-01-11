@@ -36,7 +36,7 @@ export default function Navbar() {
                             </div>
                             <div className="flex flex-col">
                                 <span className="text-xl font-black font-outfit text-secondary dark:text-white tracking-tighter leading-none">
-                                    DIJI<span className="text-primary">LYDE</span>
+                                    DIJI<span className="text-primary">LYD</span>
                                 </span>
                                 <span className="text-[10px] font-black text-primary uppercase tracking-[0.2em] leading-none mt-1">Group</span>
                             </div>

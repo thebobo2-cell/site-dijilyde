@@ -26,7 +26,7 @@ export default function Footer() {
                                 />
                             </div>
                             <span className="text-2xl font-black font-outfit tracking-tight">
-                                DIJI<span className="text-primary">LYDE</span>
+                                DIJI<span className="text-primary">LYD</span>
                             </span>
                         </Link>
                         <p className="text-white/50 leading-relaxed max-w-xs text-sm">
