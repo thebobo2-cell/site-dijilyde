@@ -71,7 +71,7 @@ export default function WhyChooseUs() {
                         viewport={{ once: true }}
                         className="text-4xl md:text-5xl font-black text-secondary dark:text-white tracking-tight"
                     >
-                        Pourquoi Choisir DIJILYDE ?
+                        Pourquoi Choisir DIJILYD ?
                     </motion.h2>
                 </div>
 

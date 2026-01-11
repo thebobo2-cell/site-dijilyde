@@ -27,7 +27,7 @@ export default function About() {
                         <div className="relative rounded-[2rem] overflow-hidden shadow-2xl aspect-[4/5] bg-gray-200 group">
                             <Image
                                 src="/images/realestate.jpg"
-                                alt="DIJILYDE Vision"
+                                alt="DIJILYD Vision"
                                 fill
                                 className="object-cover group-hover:scale-110 transition-transform duration-700"
                             />
@@ -60,12 +60,12 @@ export default function About() {
                     >
                         <span className="text-primary font-black tracking-[0.3em] text-xs uppercase mb-4 block">Notre Histoire</span>
                         <h2 className="text-4xl md:text-5xl font-black text-secondary dark:text-white mb-8 tracking-tight leading-tight">
-                            DIJILYDE : L'Excellence au Service de Votre Quotidien
+                            DIJILYD : L'Excellence au Service de Votre Quotidien
                         </h2>
 
                         <div className="space-y-6 text-gray-600 dark:text-gray-400 text-lg leading-relaxed mb-10">
                             <p>
-                                Fondée avec la vision de transformer les secteurs clés de l'économie locale, <span className="text-secondary dark:text-white font-bold">DIJILYDE</span> est devenue une référence incontournable.
+                                Fondée avec la vision de transformer les secteurs clés de l'économie locale, <span className="text-secondary dark:text-white font-bold">DIJILYD</span> est devenue une référence incontournable.
                             </p>
                             <p>
                                 Notre force réside dans notre diversité et notre capacité à offrir des solutions intégrées, que ce soit pour bâtir votre maison, vous nourrir sainement, ou vous habiller avec élégance. Nous croyons en un avenir où qualité rime avec accessibilité.

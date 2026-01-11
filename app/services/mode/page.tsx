@@ -17,7 +17,7 @@ export default function ModePage() {
                 <div className="absolute inset-0 z-0">
                     <Image
                         src="/images/fashion.jpg"
-                        alt="Mode DIJILYDE"
+                        alt="Mode DIJILYD"
                         fill
                         className="object-cover scale-110"
                         priority
@@ -61,7 +61,7 @@ export default function ModePage() {
                             Pagnes de Prestige <br />& Confection
                         </h3>
                         <p className="text-gray-600 dark:text-gray-400 mb-10 text-lg leading-relaxed">
-                            DIJILYDE célèbre la culture africaine à travers une sélection exclusive de pagnes de haute qualité. Nous allions tradition et modernité pour vous sublimer en toute occasion.
+                            DIJILYD célèbre la culture africaine à travers une sélection exclusive de pagnes de haute qualité. Nous allions tradition et modernité pour vous sublimer en toute occasion.
                         </p>
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
                             {[

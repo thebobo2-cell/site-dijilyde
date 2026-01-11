@@ -19,7 +19,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "DIJILYDE | Construction, Agriculture, Mode & Immobilier",
+  title: "DIJILYD | Construction, Agriculture, Mode & Immobilier",
   description: "Entreprise multi-services spécialisée dans la vente de matériaux de construction, la transformation des produits vivriers, la mode africaine et l'immobilier.",
   icons: {
     icon: "/icon.svg",

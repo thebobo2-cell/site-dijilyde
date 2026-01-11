@@ -20,7 +20,7 @@ export default function Footer() {
                             <div className="relative w-11 h-11 overflow-hidden rounded-xl bg-white shadow-[0_4px_15px_-5px_rgba(0,0,0,0.1)] ring-1 ring-black/[0.03] transition-all duration-300">
                                 <Image
                                     src="/logo.png"
-                                    alt="DIJILYDE Logo"
+                                    alt="DIJILYD Logo"
                                     fill
                                     className="object-contain p-1.5 group-hover:scale-110 transition-transform duration-500"
                                 />
@@ -90,7 +90,7 @@ export default function Footer() {
                                 </div>
                                 <div className="text-sm">
                                     <p className="font-bold mb-1">Support Email</p>
-                                    <p className="text-white/50">contact@dijilyde.com</p>
+                                    <p className="text-white/50">contact@dijilyd.com</p>
                                 </div>
                             </li>
                         </ul>
@@ -117,7 +117,7 @@ export default function Footer() {
 
                 <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
                     <p className="text-white/20 text-[10px] font-black uppercase tracking-[0.2em]">
-                        &copy; {currentYear} DIJILYDE. TOUS DROITS RÉSERVÉS.
+                        &copy; {currentYear} DIJILYD. TOUS DROITS RÉSERVÉS.
                     </p>
                     <div className="flex gap-8 text-[10px] font-black uppercase tracking-[0.2em] text-white/20">
                         <Link href="#" className="hover:text-primary transition-colors">Confidentialité</Link>

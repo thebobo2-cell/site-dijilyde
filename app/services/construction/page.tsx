@@ -17,7 +17,7 @@ export default function ConstructionPage() {
                 <div className="absolute inset-0 z-0">
                     <Image
                         src="/images/construction.jpg"
-                        alt="Construction DIJILYDE"
+                        alt="Construction DIJILYD"
                         fill
                         className="object-cover scale-110"
                         priority
@@ -61,7 +61,7 @@ export default function ConstructionPage() {
                             Briques & Matériaux <br />de Haute Résistance
                         </h3>
                         <p className="text-gray-600 dark:text-gray-400 mb-10 text-lg leading-relaxed">
-                            Chez DIJILYDE, nous savons que la qualité d'un bâtiment dépend avant tout de la qualité de ses matériaux. C'est pourquoi nous nous spécialisons dans la production et la vente de briques haute résistance et de matériaux essentiels répondant aux normes les plus strictes.
+                            Chez DIJILYD, nous savons que la qualité d'un bâtiment dépend avant tout de la qualité de ses matériaux. C'est pourquoi nous nous spécialisons dans la production et la vente de briques haute résistance et de matériaux essentiels répondant aux normes les plus strictes.
                         </p>
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
                             {[

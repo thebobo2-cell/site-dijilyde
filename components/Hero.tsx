@@ -12,7 +12,7 @@ export default function Hero() {
             <div className="absolute inset-0 z-0">
                 <Image
                     src="/images/construction.jpg"
-                    alt="DIJILYDE Background"
+                    alt="DIJILYD Background"
                     fill
                     className="object-cover scale-105"
                     priority

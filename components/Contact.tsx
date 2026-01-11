@@ -75,7 +75,7 @@ export default function Contact() {
                         <div className="space-y-8">
                             {[
                                 { icon: Phone, label: "Appelez-nous", value: "+243 974 699 621", sub: "Disponible 24h/7" },
-                                { icon: Mail, label: "Envoyez un email", value: "contact@dijilyde.com", sub: "Réponse sous 24h" },
+                                { icon: Mail, label: "Envoyez un email", value: "contact@dijilyd.com", sub: "Réponse sous 24h" },
                                 { icon: MapPin, label: "Nos Bureaux", value: "Goma & Bukavu, RDC", sub: "Nord-Kivu et Sud-Kivu" }
                             ].map((item, idx) => (
                                 <motion.div

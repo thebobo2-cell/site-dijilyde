@@ -89,7 +89,7 @@ export default function Services() {
                         Nos Domaines d'Activité
                     </motion.h2>
                     <p className="max-w-2xl mx-auto text-gray-500 dark:text-gray-400 text-lg">
-                        DIJILYDE excelle dans quatre secteurs clés pour bâtir, nourrir, habiller et loger avec excellence.
+                        DIJILYD excelle dans quatre secteurs clés pour bâtir, nourrir, habiller et loger avec excellence.
                     </p>
                 </div>
 

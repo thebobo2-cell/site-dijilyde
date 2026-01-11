@@ -17,7 +17,7 @@ export default function ImmobilierPage() {
                 <div className="absolute inset-0 z-0">
                     <Image
                         src="/images/realestate.jpg"
-                        alt="Immobilier DIJILYDE"
+                        alt="Immobilier DIJILYD"
                         fill
                         className="object-cover scale-110"
                         priority
@@ -61,7 +61,7 @@ export default function ImmobilierPage() {
                             Solutions Foncières <br />& Immobilières
                         </h3>
                         <p className="text-gray-600 dark:text-gray-400 mb-10 text-lg leading-relaxed">
-                            Nous vous accompagnons dans tous vos projets immobiliers. Que vous cherchiez votre résidence principale ou un investissement rentable, DIJILYDE est votre partenaire stratégique.
+                            Nous vous accompagnons dans tous vos projets immobiliers. Que vous cherchiez votre résidence principale ou un investissement rentable, DIJILYD est votre partenaire stratégique.
                         </p>
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
                             {[

@@ -28,7 +28,7 @@ export default function Navbar() {
                             <div className="relative w-11 h-11 overflow-hidden rounded-xl bg-white shadow-[0_4px_15px_-5px_rgba(0,0,0,0.1)] ring-1 ring-black/[0.03] group-hover:shadow-[0_8px_25px_-5px_rgba(212,175,55,0.3)] group-hover:ring-primary/20 transition-all duration-500">
                                 <Image
                                     src="/logo.png"
-                                    alt="DIJILYDE Logo"
+                                    alt="DIJILYD Logo"
                                     fill
                                     className="object-contain p-1.5 group-hover:scale-110 transition-transform duration-700 ease-out"
                                 />

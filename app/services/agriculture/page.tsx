@@ -17,7 +17,7 @@ export default function AgriculturePage() {
                 <div className="absolute inset-0 z-0">
                     <Image
                         src="/images/agriculture.jpg"
-                        alt="Agriculture DIJILYDE"
+                        alt="Agriculture DIJILYD"
                         fill
                         className="object-cover scale-110"
                         priority
